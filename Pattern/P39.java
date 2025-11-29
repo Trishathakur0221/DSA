@@ -1,5 +1,5 @@
 package Pattern;
-//inverted triangle using stars
+//pyramid and inverted pyramid using stars
 public class P39 {
     public static void main(String[] args) {
        for(int i=1;i<=5;i++) {
