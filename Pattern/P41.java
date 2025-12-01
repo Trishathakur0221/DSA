@@ -24,6 +24,5 @@ public class P41 {
             System.out.println();
             ch--;
         }
-        
     }
 }
