@@ -3,7 +3,7 @@ package Pattern;
 //print the hollow butterfly using stars 
 public class P46 {
     public static void main(String[] args) {
-        int n = 5;
+        int n = 10;
 
         // Upper part
         for (int i = 1; i <= n; i++) {
