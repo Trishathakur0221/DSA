@@ -1,5 +1,5 @@
 package Pattern;
-
+//print hollow heart
 public class P47 {
     public static void main(String[] args) {
         int n = 6; // size
