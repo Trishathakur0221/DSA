@@ -8,6 +8,11 @@ public class A17 {
     for(int i=0;i<arr1.length;i++){
       sum=sum+arr1[i];
     }
-    System.out.println(sum);
+      System.out.println(sum);
+    int result=0;
+    for(int i=0;i<arr2.length;i++){
+        result=result+arr2[i];
+    }
+   System.out.println(result);
    } 
 }
