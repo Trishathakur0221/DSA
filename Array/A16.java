@@ -16,6 +16,6 @@ public class A16 {
             arr[i - 1] = arr[i];
         }
         arr[arr.length - 1] = temp;
-        System.out.println("Rotated array: " + Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     }
 }
