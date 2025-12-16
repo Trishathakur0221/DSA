@@ -17,7 +17,7 @@ public class A18 {
         }
         //printing the stored element at the last
         for(int i=0; i<d; i++){
-            arr[n-d+i]=temp[i];
+            arr[n-d+i]= temp[i];
         }
         //printing the new array
         for(int i=0; i<n; i++){
