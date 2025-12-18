@@ -7,14 +7,14 @@ public class A22 {
         for(int i=0;i<arr1.length;i++){
             sum=sum+arr1[i];
         }
-        System.out.println(sum);
+        System.out.println("the sum is: " +  sum);
         int sum1=0;
         int arr2[]={6,7,8,9,10};
         for(int i=0;i<arr2.length;i++){
             sum1=sum1+arr2[i];
         }
-        System.out.println(sum1);
+        System.out.println("the sum is :" + sum1);
         int result=sum+sum1;
-        System.out.println(result);
+        System.out.println("the result is : " + result);
     }
 }
