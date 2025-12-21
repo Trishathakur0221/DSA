@@ -1,5 +1,5 @@
 package Array;
-
+//WAP to find the sum of two array
 public class A22 {
     public static void main(String[] args) {
         int arr1[]={1,2,3,4,5};

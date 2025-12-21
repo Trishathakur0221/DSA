@@ -1,5 +1,5 @@
 package Array;
-//search the element in an array
+//search the element in an array or linear search
 public class A15 {
     public static void main(String[] args) {
         int arr[]={1,3,2,6,4,8};

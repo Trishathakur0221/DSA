@@ -1,5 +1,5 @@
 package Array;
-
+//WAP to rotate an array to the right by one position
 public class A20 {
     public static void main(String[] args) {
          int arr[]={1,2,3,4,5,6,7,8};
