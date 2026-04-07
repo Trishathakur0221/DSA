@@ -22,6 +22,7 @@ public class L17 {
         // swapping of last sec and last node
         node temp = head;
         node prev = null;
+        
         while (temp.next.next != null) {
             prev = temp;
             temp = temp.next;
