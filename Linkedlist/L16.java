@@ -21,6 +21,7 @@ public class L16 {
         node temp=head;
         node t=null;
         node p=head.next;
+        
         while(temp.next!=null){
           t=temp;
           temp=temp.next;
