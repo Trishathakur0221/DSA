@@ -1,5 +1,5 @@
 //create a doubly linkedlist
-package Linkedlist;
+
 
 class node {
     int data;

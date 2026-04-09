@@ -1,5 +1,5 @@
 //insert a node before a given data in a singly linked list
-package Linkedlist;
+//package Linkedlist;
 
 public class L8 {
     public static void main(String[] args) {

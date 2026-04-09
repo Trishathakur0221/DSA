@@ -1,5 +1,5 @@
 // find the middle element of the linked list
-package Linkedlist;
+
 class node {
     int data;
     node next;

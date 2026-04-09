@@ -1,5 +1,5 @@
 //delete a node after a given data
-package Linkedlist;
+//package Linkedlist;
 
 class node {
     int data;

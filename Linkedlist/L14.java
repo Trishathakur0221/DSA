@@ -1,5 +1,5 @@
 //dalete a node before a given data
-package Linkedlist;
+//package Linkedlist;
 
 class node {
     int data;

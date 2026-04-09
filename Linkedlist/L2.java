@@ -1,5 +1,5 @@
 //wap to traverse a Singly linkedlist
-package Linkedlist;
+//package Linkedlist;
 class node{
     int data;
     node next;

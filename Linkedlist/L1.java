@@ -1,5 +1,5 @@
 //wap to print the elements of linked list
-package Linkedlist;
+//package Linkedlist;
 import java.util.*;
 import java.util.LinkedList;
 public class L1 {

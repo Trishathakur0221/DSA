@@ -1,5 +1,5 @@
 //delete the last node of the sll
-package Linkedlist;
+//package Linkedlist;
 class node{
     int data;
     node next;

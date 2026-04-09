@@ -1,5 +1,5 @@
 // search a data in singly linked list
-package Linkedlist;
+//package Linkedlist;
 
 class node {
     int data;

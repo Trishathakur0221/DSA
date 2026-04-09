@@ -1,5 +1,5 @@
 //insert a node after a given position in a singly linked list
-package Linkedlist;
+//package Linkedlist;
 class node {
     int data;
     node next;

@@ -1,5 +1,5 @@
 //swap first and last node of singly linked list
-package Linkedlist;
+//package Linkedlist;
 class node {
     int data;
     node next;

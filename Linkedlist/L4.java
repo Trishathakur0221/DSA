@@ -1,5 +1,5 @@
 //4. insert a node at the end of the linked list.
-package Linkedlist;
+//package Linkedlist;
 class node {
     int data;
     node next;

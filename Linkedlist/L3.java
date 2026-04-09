@@ -1,5 +1,5 @@
 //insert a node at the beginning of a singly linked list
-package Linkedlist;
+//package Linkedlist;
 
 class node {
     int data;

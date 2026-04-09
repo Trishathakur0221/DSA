@@ -1,5 +1,5 @@
 //swapping of last sec and last node in singly linked list
-package Linkedlist;
+//package Linkedlist;
 
 class node {
     int data;

@@ -1,5 +1,5 @@
 //reverse a linked list iteratively
-package Linkedlist;
+
 class node {
     int data;
     node next;

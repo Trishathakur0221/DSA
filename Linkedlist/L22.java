@@ -1,5 +1,5 @@
 //insert a node at the beginning of the doubly linked list
-package Linkedlist;
+;
 
 class node {
     int data;
