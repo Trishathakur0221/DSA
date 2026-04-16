@@ -2,12 +2,10 @@
 class node {
     int data;
     node next;
-    node prev;
 
     node(int data) {
         this.data = data;
         this.next = null;
-        this.prev = null;
     }
 }
 public class L32 {
